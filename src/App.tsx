@@ -1,8 +1,14 @@
 import React from 'react';
+import Navbar from './components/Navbar';
 
 const App: React.FC = () => {
   return (
-    <h1>React App</h1>
+    <>
+    <Navbar />
+    <div className="container">
+      <h1>Test</h1>
+    </div>
+    </>
   );
 }
 
