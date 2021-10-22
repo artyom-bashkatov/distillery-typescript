@@ -13,6 +13,9 @@ Pet project to improve skills to work with TypeScript
 
 # Materials for education
 1. https://youtu.be/OvLWWvjoi8s (React JS + TypeScript. Введение в Типизацию)
+2. https://www.youtube.com/watch?v=xL-a5Tox7Qw&t=1445s (WebDev Tutorial)
+3. https://benjaminjohnson.me/typescript-async-function (typization async functions)
+4. Профессиональный TypeScript (книга)
 
 How to interact with project:
 Install 'node_modules' and all needed packages: 'yarn install';
