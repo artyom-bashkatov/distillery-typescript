@@ -17,6 +17,7 @@ Pet project to improve skills to work with TypeScript
 3. https://benjaminjohnson.me/typescript-async-function (typization async functions)
 4. Профессиональный TypeScript (книга)
 5. https://github.com/typescript-cheatsheets/react
+6. https://www.youtube.com/watch?v=nyIpDs2DJ_c (TypeScript - Быстрый Курс за 70 минут [2020])
 
 How to interact with project:
 Install 'node_modules' and all needed packages: 'yarn install';
