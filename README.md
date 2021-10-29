@@ -18,6 +18,8 @@ Pet project to improve skills to work with TypeScript
 4. Профессиональный TypeScript (книга)
 5. https://github.com/typescript-cheatsheets/react
 6. https://www.youtube.com/watch?v=nyIpDs2DJ_c (TypeScript - Быстрый Курс за 70 минут [2020])
+7. https://www.youtube.com/watch?v=BCg4U1FzODs (Traversy Media 2021 TypeScript crash course 2021)
+8. https://www.youtube.com/watch?v=nViEqpgwxHE (detailed about generics)
 
 How to interact with project:
 Install 'node_modules' and all needed packages: 'yarn install';
